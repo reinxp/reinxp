@@ -1,9 +1,10 @@
 # Hi there 👋, My name is rein
 
 
-## 😗 Liitle Bit More About Me
-<p>😝 I'm currently learning PHP,Java</p>
-<p>😤 How to reach me? https://twitter.com/xp_rein</p>
+## 💫 Liitle Bit More About Me
+<p>😆 I mainly create DiscordBot</p>
+<p>😉 I'm currently learning PHP,Java</p>
+<p>🤪 How to reach me? https://twitter.com/xp_rein</p>
 
 ## 💻 Skills
 <p>
