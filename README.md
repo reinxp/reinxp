@@ -1,10 +1,9 @@
 # Hi there 👋, My name is rein
 
-😗Main programming language is Python
-😤I mainly create Discord Bot.
-😝How to contact me:!rein#0001
 
-## 💫 Liitle Bit More About Me
+## 😗 Liitle Bit More About Me
+<p>😝 I'm currently learning PHP,Java</p>
+<p>😤 How to reach me? https://twitter.com/xp_rein</p>
 
 ## 💻 Skills
 <p>
@@ -17,14 +16,3 @@
 <a href="https://twitter.com/xp_rein"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/rein#0001"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=reinxp">
-</p>
-
-## 📊 Github Status
